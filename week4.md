@@ -7,4 +7,4 @@
 |임세빈|[공개키와 개인키](https://awoool.tistory.com/5)|
 |장수진|[솔리디티](https://blog.naver.com/tnwls0529/222344104684)|
 |최민우|[]()|
-|홍지나|[https://blog.naver.com/jina05/222344048696](합의 알고리즘)|
+|홍지나|[합의 알고리즘](https://blog.naver.com/jina05/222344048696)|
